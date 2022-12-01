@@ -1,0 +1,19 @@
+table {
+width: 75%;
+padding-left: 90px;
+}
+
+table, th, td {
+border: 1px solid black;
+border-collapse: collapse;
+text-align: left;
+}
+
+th {
+width: 50px;
+}
+
+
+
+
+
